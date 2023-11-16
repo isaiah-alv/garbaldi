@@ -25,8 +25,7 @@ The core functionality of the Restaurant Resource Management System includes:
 - **Expense Categorization**: Categorize expenses into predefined categories for easy tracking and analysis.
 - **Sales Logging**: Log daily sales transactions and categorize transactions.
 - **Inventory Management**: Add, edit, and delete inventory items, and view inventory details.
-- **Website Creation**: Provide a website creation module for restaurant owners to build and manage a dedicated website for their restaurant.
-
+- 
 ## Team
 
 - **Backend Development**:

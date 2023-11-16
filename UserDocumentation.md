@@ -128,4 +128,4 @@ Find essential information about the restaurant:
 
 ## Final Thoughts
 
-Congratulations on choosing the Restaurant Resource Management System! We hope this documentation helps you navigate and make the most of our feature-rich solution. If you have any further questions, feel free to reach out to our support team.
+Congratulations on choosing the Restaurant Resource Management System! We hope this documentation helps you navigate and make the most of our feature-rich solution. If you have any further questions, feel free to reach out to our team.

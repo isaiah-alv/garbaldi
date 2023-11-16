@@ -1,4 +1,4 @@
-# USER DOCUMENTATION
+# User Documentation
 
 ## Table of Contents
 

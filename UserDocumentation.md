@@ -19,7 +19,7 @@
 6. [Customer Landing Page](#customer-landing-page)
    - [Menu Display](#menu-display)
    - [Restaurant Information](#restaurant-information)
-7. [Final Thoughts](#ft)
+7. [Final Thoughts](#final-thoughts)
 
 ## Introduction
 

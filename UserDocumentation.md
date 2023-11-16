@@ -19,7 +19,7 @@
 6. [Customer Landing Page](#customer-landing-page)
    - [Menu Display](#menu-display)
    - [Restaurant Information](#restaurant-information)
-7. [Frequently Asked Questions (FAQs)](#faqs)
+7. [Final Thoughts](#ft)
 
 ## Introduction
 
@@ -125,5 +125,7 @@ The system provides a landing page for customers to view the menu:
 Find essential information about the restaurant:
 
 1. Explore the landing page for details on location, contact information, and operating hours.
+
+## Final Thoughts
 
 Congratulations on choosing the Restaurant Resource Management System! We hope this documentation helps you navigate and make the most of our feature-rich solution. If you have any further questions, feel free to reach out to our support team.

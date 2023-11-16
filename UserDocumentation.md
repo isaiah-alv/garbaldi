@@ -1,4 +1,4 @@
-# Restaurant Resource Management System
+# USER DOCUMENTATION
 
 ## Table of Contents
 

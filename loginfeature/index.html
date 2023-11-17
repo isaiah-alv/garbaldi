@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Garbaldi Login</title>
+
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="script.js"></script>
+</head>
+
+<body>
+<header>
+   <h1>Garbaldi Metrics Tracker</h1>
+</header>
+<section class="login-wrapper">
+<form action="login.php" method="post">
+   <label>Username:</label>
+   <input type="text" id="username" required="required" name="username"><br>
+   <label>Password:</label>
+   <input type="password" id="password" required="required" name="password"><br>
+   <input type="submit" value="Submit"><br><br>
+   <label>Show Password</label>
+   <input type="checkbox" onclick="show_password() ">
+ </form> 
+</section>
+</body>
+
+</html>

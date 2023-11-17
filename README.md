@@ -58,8 +58,8 @@ The Restaurant Resource Management System addresses these challenges with featur
 
 ### Installation
 
-1. Clone the repository:
-git clone https://github.com/isaiah-alv/garbaldi.git
+1. Clone the repository using:
+- git clone https://github.com/isaiah-alv/garbaldi.git
 
 markdown
 Copy code

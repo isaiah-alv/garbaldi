@@ -29,15 +29,13 @@ The core functionality of the Restaurant Resource Management System includes:
 ## Original Team
 
 - **Backend Development**:
-  - Eduardo: Database, PHP, and SQL.
-  - John: Database, PHP, and SQL.
-
+- Eduardo: Database, PHP, and SQL
+- John: Database, PHP, and SQL
 - **Frontend Development**:
-  - Luis: Frontend developer experienced in HTML and CSS.
-  - Isaiah: HTML and CSS, focused on creating intuitive and responsive interfaces.
-
+- Luis: HTML and CSS
+- Isaiah: HTML and CSS
 - **Scrum Master**:
-  - Luis: Responsible for communication with the client and instructor.
+- Luis
 
 ## Product Description
 
@@ -51,6 +49,28 @@ The Restaurant Resource Management System addresses these challenges with featur
 
 ## Developer Documentation
 
+
+### Prerequisites
+
+- PHP
+- SQL Database
+- Web Server (e.g., Apache, Nginx)
+
+### Installation
+
+1. Clone the repository:
+git clone https://github.com/isaiah-alv/garbaldi.git
+
+markdown
+Copy code
+2. Configure the database connection in `db_connection.php`.
+3. Set up your web server to serve the `index.html` or `index.php` as the entry point.
+
+### Usage
+
+- **Expense Tracking**: Use `add_expense.php` to record expenses.
+- **Inventory Management**: Modify inventory using the interface provided in `inventory.php`.
+- **Sales Logging**: Log daily sales in `sales_log.php`.
 
 ## Conclusion
 

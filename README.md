@@ -1,5 +1,4 @@
-# Garibaldi Restaurant Resource Management System
-##Developer Documentation
+# Garibaldi Restaurant Resource Management System - Developer Documention
 
 ## Overview
 

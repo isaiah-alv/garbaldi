@@ -1,5 +1,6 @@
 # Garibaldi Restaurant Resource Management System 
-# Developer Documention
+# Developer Documention 
+### ‼️Please note project is still in beta testing and more resources will be provided soon.
 
 ## Overview
 
